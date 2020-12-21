@@ -1,0 +1,13 @@
+C:\Users\upend\Desktop\C# upendra\return\return\obj\Debug\return.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\C# upendra\return\return\bin\Debug\@return.exe.config
+C:\Users\upend\Desktop\C# upendra\return\return\bin\Debug\@return.exe
+C:\Users\upend\Desktop\C# upendra\return\return\bin\Debug\@return.pdb
+C:\Users\upend\Desktop\C# upendra\return\return\obj\Debug\@return.exe
+C:\Users\upend\Desktop\C# upendra\return\return\obj\Debug\@return.pdb
+C:\Users\upend\Desktop\vs\return\return\bin\Debug\@return.exe.config
+C:\Users\upend\Desktop\vs\return\return\bin\Debug\@return.exe
+C:\Users\upend\Desktop\vs\return\return\bin\Debug\@return.pdb
+C:\Users\upend\Desktop\vs\return\return\obj\Debug\return.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\vs\return\return\obj\Debug\return.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\vs\return\return\obj\Debug\@return.exe
+C:\Users\upend\Desktop\vs\return\return\obj\Debug\@return.pdb

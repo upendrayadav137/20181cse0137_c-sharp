@@ -1,0 +1,14 @@
+C:\Users\upend\Desktop\C# upendra\bettercalculator\bettercalculator\bin\Debug\bettercalculator.exe.config
+C:\Users\upend\Desktop\C# upendra\bettercalculator\bettercalculator\bin\Debug\bettercalculator.exe
+C:\Users\upend\Desktop\C# upendra\bettercalculator\bettercalculator\bin\Debug\bettercalculator.pdb
+C:\Users\upend\Desktop\C# upendra\bettercalculator\bettercalculator\obj\Debug\bettercalculator.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\C# upendra\bettercalculator\bettercalculator\obj\Debug\bettercalculator.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\C# upendra\bettercalculator\bettercalculator\obj\Debug\bettercalculator.exe
+C:\Users\upend\Desktop\C# upendra\bettercalculator\bettercalculator\obj\Debug\bettercalculator.pdb
+C:\Users\upend\Desktop\vs\bettercalculator\bettercalculator\bin\Debug\bettercalculator.exe.config
+C:\Users\upend\Desktop\vs\bettercalculator\bettercalculator\bin\Debug\bettercalculator.exe
+C:\Users\upend\Desktop\vs\bettercalculator\bettercalculator\bin\Debug\bettercalculator.pdb
+C:\Users\upend\Desktop\vs\bettercalculator\bettercalculator\obj\Debug\bettercalculator.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\vs\bettercalculator\bettercalculator\obj\Debug\bettercalculator.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\vs\bettercalculator\bettercalculator\obj\Debug\bettercalculator.exe
+C:\Users\upend\Desktop\vs\bettercalculator\bettercalculator\obj\Debug\bettercalculator.pdb

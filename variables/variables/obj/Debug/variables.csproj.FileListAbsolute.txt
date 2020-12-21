@@ -1,0 +1,14 @@
+C:\Users\upend\Desktop\C# upendra\variables\variables\bin\Debug\variables.exe.config
+C:\Users\upend\Desktop\C# upendra\variables\variables\bin\Debug\variables.exe
+C:\Users\upend\Desktop\C# upendra\variables\variables\bin\Debug\variables.pdb
+C:\Users\upend\Desktop\C# upendra\variables\variables\obj\Debug\variables.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\C# upendra\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\C# upendra\variables\variables\obj\Debug\variables.exe
+C:\Users\upend\Desktop\C# upendra\variables\variables\obj\Debug\variables.pdb
+C:\Users\upend\Desktop\vs\variables\variables\bin\Debug\variables.exe.config
+C:\Users\upend\Desktop\vs\variables\variables\bin\Debug\variables.exe
+C:\Users\upend\Desktop\vs\variables\variables\bin\Debug\variables.pdb
+C:\Users\upend\Desktop\vs\variables\variables\obj\Debug\variables.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\vs\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\vs\variables\variables\obj\Debug\variables.exe
+C:\Users\upend\Desktop\vs\variables\variables\obj\Debug\variables.pdb

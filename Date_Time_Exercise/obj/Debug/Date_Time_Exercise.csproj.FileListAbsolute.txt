@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SimpleInheritance\Date_Time_Exercise\bin\Debug\Date_Time_Exercise.exe.config
+C:\Users\Admin\source\repos\SimpleInheritance\Date_Time_Exercise\bin\Debug\Date_Time_Exercise.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Date_Time_Exercise\bin\Debug\Date_Time_Exercise.pdb
+C:\Users\Admin\source\repos\SimpleInheritance\Date_Time_Exercise\obj\Debug\Date_Time_Exercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Date_Time_Exercise\obj\Debug\Date_Time_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Date_Time_Exercise\obj\Debug\Date_Time_Exercise.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Date_Time_Exercise\obj\Debug\Date_Time_Exercise.pdb

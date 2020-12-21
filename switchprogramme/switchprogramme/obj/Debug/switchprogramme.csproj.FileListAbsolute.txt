@@ -1,0 +1,7 @@
+C:\Users\upend\Desktop\C# upendra\switchprogramme\switchprogramme\obj\Debug\switchprogramme.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\C# upendra\switchprogramme\switchprogramme\obj\Debug\switchprogramme.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\C# upendra\switchprogramme\switchprogramme\bin\Debug\switchprogramme.exe.config
+C:\Users\upend\Desktop\C# upendra\switchprogramme\switchprogramme\bin\Debug\switchprogramme.exe
+C:\Users\upend\Desktop\C# upendra\switchprogramme\switchprogramme\bin\Debug\switchprogramme.pdb
+C:\Users\upend\Desktop\C# upendra\switchprogramme\switchprogramme\obj\Debug\switchprogramme.exe
+C:\Users\upend\Desktop\C# upendra\switchprogramme\switchprogramme\obj\Debug\switchprogramme.pdb

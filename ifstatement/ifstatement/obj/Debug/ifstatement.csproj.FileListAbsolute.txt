@@ -1,0 +1,7 @@
+C:\Users\upend\Desktop\C# upendra\ifstatement\ifstatement\bin\Debug\ifstatement.exe.config
+C:\Users\upend\Desktop\C# upendra\ifstatement\ifstatement\bin\Debug\ifstatement.exe
+C:\Users\upend\Desktop\C# upendra\ifstatement\ifstatement\bin\Debug\ifstatement.pdb
+C:\Users\upend\Desktop\C# upendra\ifstatement\ifstatement\obj\Debug\ifstatement.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\C# upendra\ifstatement\ifstatement\obj\Debug\ifstatement.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\C# upendra\ifstatement\ifstatement\obj\Debug\ifstatement.exe
+C:\Users\upend\Desktop\C# upendra\ifstatement\ifstatement\obj\Debug\ifstatement.pdb

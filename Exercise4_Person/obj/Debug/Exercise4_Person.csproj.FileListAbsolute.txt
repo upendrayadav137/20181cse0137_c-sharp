@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SimpleInheritance\Exercise4_Person\bin\Debug\Exercise4_Person.exe.config
+C:\Users\Admin\source\repos\SimpleInheritance\Exercise4_Person\bin\Debug\Exercise4_Person.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Exercise4_Person\bin\Debug\Exercise4_Person.pdb
+C:\Users\Admin\source\repos\SimpleInheritance\Exercise4_Person\obj\Debug\Exercise4_Person.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Exercise4_Person\obj\Debug\Exercise4_Person.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Exercise4_Person\obj\Debug\Exercise4_Person.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Exercise4_Person\obj\Debug\Exercise4_Person.pdb

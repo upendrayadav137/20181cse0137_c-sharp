@@ -1,0 +1,14 @@
+C:\Users\upend\Desktop\C# upendra\userinput\userinput\bin\Debug\userinput.exe.config
+C:\Users\upend\Desktop\C# upendra\userinput\userinput\bin\Debug\userinput.exe
+C:\Users\upend\Desktop\C# upendra\userinput\userinput\bin\Debug\userinput.pdb
+C:\Users\upend\Desktop\C# upendra\userinput\userinput\obj\Debug\userinput.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\C# upendra\userinput\userinput\obj\Debug\userinput.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\C# upendra\userinput\userinput\obj\Debug\userinput.exe
+C:\Users\upend\Desktop\C# upendra\userinput\userinput\obj\Debug\userinput.pdb
+C:\Users\upend\Desktop\vs\userinput\userinput\bin\Debug\userinput.exe.config
+C:\Users\upend\Desktop\vs\userinput\userinput\bin\Debug\userinput.exe
+C:\Users\upend\Desktop\vs\userinput\userinput\bin\Debug\userinput.pdb
+C:\Users\upend\Desktop\vs\userinput\userinput\obj\Debug\userinput.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\vs\userinput\userinput\obj\Debug\userinput.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\vs\userinput\userinput\obj\Debug\userinput.exe
+C:\Users\upend\Desktop\vs\userinput\userinput\obj\Debug\userinput.pdb

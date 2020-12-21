@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SimpleInheritance\CommandLineArguments_Demo\bin\Debug\CommandLineArguments_Demo.exe.config
+C:\Users\Admin\source\repos\SimpleInheritance\CommandLineArguments_Demo\bin\Debug\CommandLineArguments_Demo.exe
+C:\Users\Admin\source\repos\SimpleInheritance\CommandLineArguments_Demo\bin\Debug\CommandLineArguments_Demo.pdb
+C:\Users\Admin\source\repos\SimpleInheritance\CommandLineArguments_Demo\obj\Debug\CommandLineArguments_Demo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleInheritance\CommandLineArguments_Demo\obj\Debug\CommandLineArguments_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleInheritance\CommandLineArguments_Demo\obj\Debug\CommandLineArguments_Demo.exe
+C:\Users\Admin\source\repos\SimpleInheritance\CommandLineArguments_Demo\obj\Debug\CommandLineArguments_Demo.pdb

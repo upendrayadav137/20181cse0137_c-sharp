@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SimpleInheritance\Email_data_Validation\bin\Debug\Email_data_Validation.exe.config
+C:\Users\Admin\source\repos\SimpleInheritance\Email_data_Validation\bin\Debug\Email_data_Validation.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Email_data_Validation\bin\Debug\Email_data_Validation.pdb
+C:\Users\Admin\source\repos\SimpleInheritance\Email_data_Validation\obj\Debug\Email_data_Validation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Email_data_Validation\obj\Debug\Email_data_Validation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Email_data_Validation\obj\Debug\Email_data_Validation.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Email_data_Validation\obj\Debug\Email_data_Validation.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SimpleInheritance\Exceptions_Demo\bin\Debug\Exceptions_Demo.exe.config
+C:\Users\Admin\source\repos\SimpleInheritance\Exceptions_Demo\bin\Debug\Exceptions_Demo.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Exceptions_Demo\bin\Debug\Exceptions_Demo.pdb
+C:\Users\Admin\source\repos\SimpleInheritance\Exceptions_Demo\obj\Debug\Exceptions_Demo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Exceptions_Demo\obj\Debug\Exceptions_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleInheritance\Exceptions_Demo\obj\Debug\Exceptions_Demo.exe
+C:\Users\Admin\source\repos\SimpleInheritance\Exceptions_Demo\obj\Debug\Exceptions_Demo.pdb

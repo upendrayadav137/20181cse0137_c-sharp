@@ -1,0 +1,7 @@
+C:\Users\upend\Desktop\studentproject\bin\Debug\studentproject.exe.config
+C:\Users\upend\Desktop\studentproject\bin\Debug\studentproject.exe
+C:\Users\upend\Desktop\studentproject\bin\Debug\studentproject.pdb
+C:\Users\upend\Desktop\studentproject\obj\Debug\studentproject.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\studentproject\obj\Debug\studentproject.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\studentproject\obj\Debug\studentproject.exe
+C:\Users\upend\Desktop\studentproject\obj\Debug\studentproject.pdb

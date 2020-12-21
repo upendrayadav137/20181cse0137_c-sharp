@@ -1,0 +1,7 @@
+C:\Users\upend\Desktop\C# upendra\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Users\upend\Desktop\C# upendra\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\upend\Desktop\C# upendra\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\upend\Desktop\C# upendra\triangle\triangle\obj\Debug\triangle.csprojAssemblyReference.cache
+C:\Users\upend\Desktop\C# upendra\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\upend\Desktop\C# upendra\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\upend\Desktop\C# upendra\triangle\triangle\obj\Debug\triangle.pdb
